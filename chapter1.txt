@@ -3,8 +3,5 @@ This is Rohan
 This is Ritik
 Ritik testing
 Ritesh is Noob
-<<<<<<< HEAD
 Testing in VSCODE
-=======
 Testing and Testing
->>>>>>> d1b88a5aa1f0b82b2c63099c7c3511b45d6fc8da
